@@ -1,0 +1,5 @@
+{
+  "name": "Architect Defense",
+  "description": "A gamified, interactive Tower Defense style web app where users learn system design by building architectures to survive real-time traffic waves and technical failures.",
+  "requestFramePermissions": []
+}
